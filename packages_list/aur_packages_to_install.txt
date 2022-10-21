@@ -1,0 +1,2 @@
+paru
+vscodium-bin vscodium-bin-marketplace

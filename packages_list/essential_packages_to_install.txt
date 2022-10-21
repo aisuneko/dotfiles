@@ -1,0 +1,13 @@
+python
+git
+nvim
+nano
+rustup
+firefox
+gnu-free-fonts
+noto-fonts
+noto-fonts-cjk
+rofi
+syncthing
+man
+telegram-desktop

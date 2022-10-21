@@ -1,0 +1,9 @@
+feh
+kitty
+nemo
+ttf-dejavu 
+ttf-droid
+gvfs-smb
+gvfs-nfs
+pavuccontrol
+polybar
