@@ -14,7 +14,7 @@ killall -q polybar
 
 # Launch Polybar, using default config location ~/.config/polybar/config.ini
 
-polybar example 2>&1 | tee -a /tmp/polybar.log & disown
+polybar mine 2>&1 | tee -a /tmp/polybar.log & disown
 
 
 

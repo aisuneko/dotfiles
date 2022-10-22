@@ -1,2 +1,5 @@
 paru
-vscodium-bin vscodium-bin-marketplace
+vscodium-bin
+vscodium-bin-marketplace
+defold
+appimagetool

@@ -7,3 +7,13 @@ gvfs-smb
 gvfs-nfs
 pavuccontrol
 polybar
+picom
+font-manager
+file-roller
+p7zip
+unrar
+unzip
+zip
+screengrab
+nemo-fileroller
+pacman-contrib

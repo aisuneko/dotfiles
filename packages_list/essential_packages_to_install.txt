@@ -11,3 +11,8 @@ rofi
 syncthing
 man
 telegram-desktop
+gimp
+inkscape
+imagemagick
+simplescreenrecorder
+rsync
