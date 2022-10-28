@@ -17,3 +17,4 @@ zip
 screengrab
 nemo-fileroller
 pacman-contrib
+kvantum
