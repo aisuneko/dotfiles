@@ -16,3 +16,6 @@ inkscape
 imagemagick
 simplescreenrecorder
 rsync
+python-pip
+npm
+fzf
