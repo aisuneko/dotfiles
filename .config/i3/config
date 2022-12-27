@@ -53,17 +53,17 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec kitty
+bindsym $mod+Return exec terminator
 
 # start file manager
-bindsym Control+Mod1+f exec dbus-launch nemo
+bindsym Control+Mod1+f exec nemo
 
 # start browser
-bindsym Control+Mod1+b exec dbus-launch firefox
+bindsym Control+Mod1+b exec firefox
 # bind screen capture keys
-bindsym Mod1+Shift+3 exec dbus-launch screengrab -f -m
-bindsym Mod1+Shift+4 exec dbus-launch screengrab -r -m 
-bindsym Mod1+Shift+5 exec dbus-launch screengrab -a -m 
+bindsym Mod1+Shift+3 exec screengrab -f -m
+bindsym Mod1+Shift+4 exec screengrab -r -m 
+bindsym Mod1+Shift+5 exec screengrab -a -m 
 # kill focused window
 bindsym $mod+q kill
 
@@ -207,11 +207,16 @@ bindsym $mod+r mode "resize"
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
+# input method (fcitx5)
+exec --no-startup-id fcitx5 -d
+
 # conky
-exec_always --no-startup-id conky 
+exec --no-startup-id conky -d
 
 # a compositor (for example picom)
 exec_always --no-startup-id picom
 
 # wallpaper w/ feh
-exec --no-startup-id ~/.fehbg 
+exec --no-startup-id ~/.fehbg
+
+

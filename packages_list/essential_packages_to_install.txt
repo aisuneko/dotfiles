@@ -19,3 +19,7 @@ rsync
 python-pip
 npm
 fzf
+kdenlive
+geogebra
+flatpak
+gdp

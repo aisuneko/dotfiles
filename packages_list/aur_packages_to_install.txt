@@ -3,3 +3,8 @@ vscodium-bin
 vscodium-bin-marketplace
 defold
 appimagetool
+xdg-ninja
+antidot-bin
+xrdp
+xorgxrdp
+pulseaudio-module-xrdp

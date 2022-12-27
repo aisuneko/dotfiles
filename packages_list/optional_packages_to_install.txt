@@ -18,3 +18,8 @@ screengrab
 nemo-fileroller
 pacman-contrib
 kvantum
+terminator
+featherpad
+zerotier-one
+x11-utils
+picom-trans
